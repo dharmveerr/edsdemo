@@ -1,5 +1,5 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/HelixProjects/Shared%20Documents/sites/starter-content-commerce
+  /: https://adobe.sharepoint.com/sites/edsdemo92/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fedsdemo92%2FShared%20Documents%2Fedsdemo&viewid=e1844554%2De94e%2D4668%2Db2fa%2Df2868b0ed4d4
 
 folders:
   /products/: /products/default
